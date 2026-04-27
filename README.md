@@ -5,7 +5,7 @@ A comprehensive data engineering project that handles messy banking records. Inc
 I developed an interactive dashboard to visualize the insights from the cleaned banking data.
 
 ### 🖼️ Dashboard Preview
-![Banking Dashboard](dashboard_preview.jpg)
+![Banking Dashboard](banking visu..png)
 
 ### 🔍 Key Metrics Tracked:
 * **Total Balance & Loans:** High-level overview of the bank's liquidity.
